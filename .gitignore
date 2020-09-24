@@ -2,7 +2,7 @@
 .vscode/
 
 ### build ###
-.out
+*.out
 
 ### python ###
 *.pyc
