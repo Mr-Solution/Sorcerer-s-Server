@@ -1,5 +1,8 @@
 ### vs code ###
 .vscode/
 
+### build ###
+.out
+
 ### python ###
 *.pyc
